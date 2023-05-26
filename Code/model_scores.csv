@@ -1,0 +1,4 @@
+,train_prec,val_prec,train_recall,val_recall,train_auc,val_auc,train_f1,val_f1
+model_a,1,1,1,1,1,1,1,1
+model_b,1,1,1,1,1,1,1,1
+model_c,1,1,1,1,1,1,1,1
