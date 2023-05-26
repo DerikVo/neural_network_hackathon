@@ -1,4 +1,4 @@
-,train_prec,val_prec,train_recall,val_recall,train_auc,val_auc,train_f1,val_f1
-model_a,1,1,1,1,1,1,1,1
-model_b,1,1,1,1,1,1,1,1
-model_c,1,1,1,1,1,1,1,1
+,train_accuracy,val_accuracy,train_AUC,val_AUC,train_Precision,val_Precision,train_Recall,val_Recall
+convnet,1,0.970000029,1,0.993188798,1,0.960784316,1,0.980000019
+inceptionv3,0.997500002,0.978333354,0.999978483,0.997638941,0.998330534,0.95846647,0.99666667,1
+baseline,0.942083359,0.714999974,0.989103436,0.765388846,0.97408402,0.736263752,0.908333361,0.670000017
